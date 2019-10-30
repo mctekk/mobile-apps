@@ -3,6 +3,7 @@
 ## Apps
 
 - Kanvas
+
   - DP: Alexis Ubri
   - MD: Lilianka Julian / Maria Vega
   - QA: Alexander Aracena
@@ -11,42 +12,41 @@
   - BU: Sebastian Perez
   - SM: Sebastian Perez
   - TD: Sebastian Perez
-  - PM: undefined 
+  - PM: undefined
 
 - Insights
-  - MDP: Dionicio Diaz 
-  - DP: Sebastian Perez 
-  - MD: Lilianka Julian / Maria Vega 
-  - QA: Alexander Aracena 
-  - SC: Alexis Ubri 
-  - BU: Dawin Camilo / Enmanuel Pujals 
-  - PM: undefined 
-  - PO: undefined 
+
+  - MDP: Dionicio Diaz
+  - DP: Sebastian Perez
+  - MD: Lilianka Julian / Maria Vega
+  - QA: Alexander Aracena
+  - SC: Alexis Ubri
+  - BU: Dawin Camilo / Enmanuel Pujals
+  - PM: undefined
+  - PO: undefined
   - TD: undefined
 
 - Blink
-  - MDP: Enmanuel Pujals 
-  - MD: Lilianka Julian / Maria Vega 
-  - QA: Alexander Aracena 
-  - DP: Sebastian Perez & Alexis Ubri 
-  - BU: Sebastian Perez / Enmanuel Pujals 
-  - PO: undefined 
-  - PM: undefined  
-  - SM: undefined 
+  - MDP: Enmanuel Pujals
+  - MD: Lilianka Julian / Maria Vega
+  - QA: Alexander Aracena
+  - DP: Sebastian Perez & Alexis Ubri
+  - BU: Sebastian Perez / Enmanuel Pujals
+  - PO: undefined
+  - PM: undefined
+  - SM: undefined
   - TD: undefined
-
 
 - Delaer
   - MDP: Sebastian Perez & Alexis Ubri
-  - QA: Alexander Aracena 
-  - BU: Sebastian Perez 
-  - PO: Jow Perez 
-  - PM: Jow Perez   
+  - QA: Alexander Aracena
+  - BU: Sebastian Perez
+  - PO: Jow Perez
+  - PM: Jow Perez
   - MD: undefined
   - DP: undefined
-  - SM: undefined 
+  - SM: undefined
   - TD: undefined
-
 
 - Vivook
   - MDP: Enmanuel Perez
@@ -54,11 +54,10 @@
   - BU: Enmanuel Perez
   - QA: undefined
   - PO: undefined
-  - PM: undefined  
+  - PM: undefined
   - DP: undefined
   - SM: undefined
   - TD: undefined
-
 
 - Ginny
   - MDP: Enmanuel Perez
@@ -67,9 +66,9 @@
   - QA: Alexander Aracena
   - PO: Maximo Castro
   - DP: Alexis Ubri
-  - PM: undefined  
+  - PM: undefined
   - DP: undefined
-  - SM: undefined 
+  - SM: undefined
   - TD: undefined
 
 ## Glossary
@@ -77,10 +76,9 @@
 - MDP: Main Developer
 - DP: Developer
 - SC: Scrum master
-- PM: Project manager
-- PO: Product Owner 
+- PO: Product Owner
 - QA: Quality Assurance
-- MD: Mobile Designer 
+- MD: Mobile Designer
 - TL: Team Lead Developer
 - BU: UI Builder
 - TD: Technical Documenter
